@@ -27,10 +27,7 @@ html {
   font-size: 1rem;
   box-shadow:  ;
 
-    top: 0;
-    position: fixed;
-    width: 100%;
-    z-index: 1;
+   
 }
 
 .navbar-item.is-active{
@@ -90,6 +87,7 @@ html {
 .hero .hero-foot .hero-foot--wrapper {
   margin: 7px auto;
   height: 50px;
+  
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop {
@@ -98,6 +96,12 @@ html {
   text-transform: ;
   letter-spacing: 1px;
   font-size: 1rem;
+
+
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li {
