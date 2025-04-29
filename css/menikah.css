@@ -99,6 +99,11 @@ html {
   display: inline-block;
   padding-right: 15px;
   padding-left: 15px;
+
+  top: 0;
+position: fixed;
+width: 100%;
+z-index: 1;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li.is-active a {
