@@ -17,6 +17,12 @@ html {
 
 .header-wrapper {
   padding-bottom: 30px;
+
+
+   top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
 }
 
 .navbar-item {
@@ -26,6 +32,12 @@ html {
   letter-spacing: 1px;
   font-size: 1rem;
   box-shadow:  ;
+
+
+   top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
 
    
 }
