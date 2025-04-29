@@ -99,8 +99,6 @@ html {
   display: inline-block;
   padding-right: 15px;
   padding-left: 15px;
-
- 
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li.is-active a {
@@ -115,8 +113,6 @@ html {
   color: #996E6D;
   transition: all .2s ease-in-out;
   border-bottom: 2px solid #c28285;
-
-  
 }
 
 
