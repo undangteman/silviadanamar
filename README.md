@@ -1,4 +1,4 @@
-# Wedding Landing Page - Daeng Sherly Menikah
+# Wedding Landing Page - Menikah
 
 ![Thumbnail](/image/thumbnail-web-sherly-daeng-menikah.png)
 
