@@ -26,11 +26,6 @@ html {
   letter-spacing: 1px;
   font-size: 1rem;
   box-shadow:  ;
-
-
-  
-
-   
 }
 
 .navbar-item.is-active{
@@ -90,7 +85,6 @@ html {
 .hero .hero-foot .hero-foot--wrapper {
   margin: 7px auto;
   height: 50px;
-  
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop {
